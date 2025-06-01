@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\proiecte cv\proiectoop\proiectoop\reciperepo.h(50): warning C4101: 'e': unreferenced local variable
+c:\proiecte cv\proiectoop\proiectoop\reciperepo.h(54): warning C4101: 'e': unreferenced local variable
+  ProiectOOP.vcxproj -> C:\Proiecte CV\ProiectOOP\Debug\ProiectOOP.exe

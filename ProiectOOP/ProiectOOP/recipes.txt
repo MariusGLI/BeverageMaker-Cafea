@@ -1,0 +1,26 @@
+CafeaEspresso
+Apa 50
+Cafea 20
+
+CafeaLunga
+Apa 100
+Cafea 20
+
+Cappuccino
+Apa 50
+Cafea 20
+Lapte 30
+
+
+LatteMacchiato
+Apa 30
+Cafea 15
+Lapte 50
+
+
+ApaPlata
+Apa 200
+
+CeaiNegru
+Apa 150
+Ceai 10
